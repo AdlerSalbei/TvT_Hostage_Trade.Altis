@@ -1,3 +1,3 @@
 #define PREFIX GRAD
-#define COMPONENT waverespawn
+#define COMPONENT missionSetup
 #include "\x\cba\addons\main\script_macros_mission.hpp"
