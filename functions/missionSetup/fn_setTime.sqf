@@ -1,3 +1,4 @@
+#include "component.hpp"
 if (!isServer) exitWith {};
 
 //random

@@ -3,8 +3,9 @@ class Upgrades {
     kindOf = "Other";
 
     class ACE_VectorDay {
-        displayName = "Vector Rangefinder";
-        price = 1000;
-        stock = 2;
+        displayName = "Optics Upgrade";
+        description = "Enables to buy 1x Optics & Binoculars";
+        price = 10000;
+        stock = 1;
     };
 };
